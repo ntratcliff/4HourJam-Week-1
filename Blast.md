@@ -21,6 +21,7 @@ When a player runs out of walls, that player loses and is removed from the game.
 
 ###Deck
 The *Blast* deck has a total of 40 cards:
+
 | Type | Name | Text | \# In Deck|
 | ---  | ---  | ---  | ---       |
 |Bomb|Bomb|Destroys 1 wall, detonates in 5 turns|12|
