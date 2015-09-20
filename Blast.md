@@ -1,7 +1,9 @@
 #Blast
 ---
 **Players**: 2-4
+
 **Playtime**: 5-15 minutes
+
 **Supplies**: 1 D6 die, 12 wall tokens, 1 *Blast* Deck (see below)
 
 ###Rules
